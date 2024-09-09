@@ -1,4 +1,4 @@
-module example.com/test-go
+module github.com/khoilu-1512/go-chi-cursor-example
 
 go 1.23.1
 
