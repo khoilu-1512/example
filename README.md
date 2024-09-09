@@ -1,6 +1,6 @@
 # Go Chi Cursor Example
 
-This project is a simple RESTful API for managing student records using Go, Chi router, and PostgreSQL.
+This project is a simple RESTful API for managing student records using Go, Chi router, and PostgreSQL. All content are created by Cursor AI.
 
 ## Prerequisites
 
